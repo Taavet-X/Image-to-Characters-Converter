@@ -3,6 +3,8 @@
 This Python application converts a set of images into a TXT or PNG file using a set of characters.
 There is no a function to scale the images, it is recommended to use low resolution pictures (300 x 300)around.
 
+https://www.youtube.com/embed/RQoDha8573o
+
 Requirements:
 - Python 3
 - Pillow (pip install pillow)
